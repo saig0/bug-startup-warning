@@ -44,12 +44,12 @@
 		<dependency>
 			<groupId>io.camunda</groupId>
 			<artifactId>camunda-spring-boot-starter</artifactId>
-			<version>8.8.3</version>
+			<version>8.8.4</version>
 		</dependency>
 		<dependency>
 			<groupId>io.camunda</groupId>
 			<artifactId>camunda-process-test-spring</artifactId>
-			<version>8.8.3</version>
+			<version>8.8.4</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
